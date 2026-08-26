@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/simonflood / Bluesky @simonflood.bsky.social / Twitter @simonflood
+- 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/simonflood | Bluesky @simonflood.bsky.social | Twitter/X @simonflood
 
 <!---
 simonflood/simonflood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
